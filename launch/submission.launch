@@ -1,5 +1,5 @@
 <launch>
- 
+
   <env name="ROSCONSOLE_CONFIG_FILE" value="$(find example_submission)/config/logging.conf"/>
 
   <node pkg="move_base" type="move_base" respawn="false" name="submission" output="screen">
