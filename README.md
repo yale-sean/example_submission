@@ -1,0 +1,3 @@
+## Example Submission for SEANavBench
+
+This repository is an example submission for [SEANavBench](https://seannavbench2022.netlify.app/), the robotics navigation benchmarking system using the [SEAN](https://sean.interactive-machines.com/) environment. Essentially, this is a ROS package with a `submission.launch` file. To see how this example is created, check out the tutorial on [submitting to SEANavBench](https://sean.interactive-machines.com/tutorials/submission).
